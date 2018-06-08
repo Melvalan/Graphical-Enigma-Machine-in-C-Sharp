@@ -31,7 +31,7 @@ namespace Enigma_Machine.Forms
 
             reflector = reflector_box.Text;
 
-            steckers = stecker_box.Text.Split(',');
+            steckers = stecker_box.Replace(" ", "").Text.Split(',');
 
             fastRing = (int)fastRing_box.Value;
             mediumRing = (int)mediumRing_box.Value;
