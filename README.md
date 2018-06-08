@@ -1,4 +1,4 @@
-# Graphical-Enigma-Machine-in-C-Sharp
+# Graphical Enigma Machine in C Sharp
 An Enigma machine, written in C Sharp. 
 
 It is designed to work with all eight rotors that were introduced for it during the war, although only three can ever be chosen at one time. 
